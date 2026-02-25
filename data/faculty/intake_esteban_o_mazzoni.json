@@ -1,0 +1,23 @@
+{
+  "source": "intake_form",
+  "faculty_id": "intake_esteban_o_mazzoni",
+  "name": "esteban o mazzoni",
+  "name_canonical": "esteban o mazzoni",
+  "title": "professor",
+  "affiliations": [
+    "Cell Biology"
+  ],
+  "affiliations_raw": "Cell Biology",
+  "affiliations_unmapped": [],
+  "lab_synopsis": "We are passionate about understanding how cells acquire the functions required by a multicellular organism like the complex human body. We aim to understand how these cells change and develop to a degree that we can control for future clinical applications.  Our research is a blend of different scientific approaches, all working together to deepen our understanding of cell differentiation. We're proud of our ability to combine cutting-edge genomic and tissue culture technologies to answer fundamental questions about how cells change and develop.  We're curious about how DNA sequences can store temporary signals as permanent memories. We're interested in how different transcription factors interact to drive cell differentiation. We're also keen to understand why some neurons are more susceptible to neurodegeneration than others.  We use innovative tools and techniques to study cell differentiation and neuronal physiology at a pace comparable to small invertebrate animals and on a scale associated with yeast. This allows us to study mammalian cell differentiation quickly and on a large scale, while also considering human genetic diversity.  In short, our lab is a place where curiosity meets innovation, all with the goal of better understanding the fascinating world of mammalian cells.",
+  "common_experiments_raw": "stem cell differentiation, *transcription factor induced differentiation, RNA-seq, chip-seq, cut&run, cut&tag, immunocytochemistry, FACS",
+  "research_keywords": [],
+  "experimental_capabilities": [],
+  "model_systems": [],
+  "focus_groups": [],
+  "publications": [],
+  "id": "intake_esteban_o_mazzoni",
+  "department_site": "Cell Biology",
+  "keywords": [],
+  "summary": "We are passionate about understanding how cells acquire the functions required by a multicellular organism like the complex human body. We aim to understand how these cells change and develop to a degree that we can control for future clinical applications.  Our research is a blend of different scientific approaches, all working together to deepen our understanding of cell differentiation. We're proud of our ability to combine cutting-edge genomic and tissue culture technologies to answer fundamental questions about how cells change and develop.  We're curious about how DNA sequences can store temporary signals as permanent memories. We're interested in how different transcription factors interact to drive cell differentiation. We're also keen to understand why some neurons are more susceptible to neurodegeneration than others.  We use innovative tools and techniques to study cell differentiation and neuronal physiology at a pace comparable to small invertebrate animals and on a scale associated with yeast. This allows us to study mammalian cell differentiation quickly and on a large scale, while also considering human genetic diversity.  In short, our lab is a place where curiosity meets innovation, all with the goal of better understanding the fascinating world of mammalian cells."
+}

@@ -1,0 +1,26 @@
+{
+  "source": "intake_form",
+  "faculty_id": "intake_andrea_h_brand",
+  "name": "Andrea H. Brand",
+  "name_canonical": "Andrea H. Brand",
+  "title": "Chair Department of Cell Biology and Director Regenerative Medicine Institute",
+  "affiliations": [
+    "Cell Biology",
+    "Organoids"
+  ],
+  "affiliations_raw": "Cell Biology and Regenerative Medicine; Neuroscience; Organoids (human): cerebral, hypothalamic, amnion, glioma, breast cancer, melanoma, blood vessel",
+  "affiliations_unmapped": [],
+  "lab_synopsis": "Neural stem cells in the adult brain exist primarily in a quiescent state but can be reactivated in response to changing physiological conditions. The ability to reactivate neural stem cells in situ raises the prospect of potential future therapies for brain repair after damage or neurodegenerative disease. Understanding the molecular basis of stem cell reactivation is an essential first step. We generate human cerebral and hypothalamic brain organoids to study stem cell quiescence and tumorigenesis. We study cell interactions in assembloids, combining human brain organoids with glioma, melanoma, breast cancer and/or blood vessel organoids. We combine cutting-edge genetic and molecular approaches with advanced imaging techniques to study the reactivation of neural stem cells in vivo and to identify the cells of origin in brain tumors. We developed \u2018Targeted DamID\u2019 (TaDa) and NanoDam for cell type specific genome-wide profiling of DNA- or chromatin-binding in vivo and RNA-DamID to detects lncRNA\u2013genome interactions with high sensitivity and accuracy.",
+  "common_experiments_raw": "Developing region specific human brain organoids\nGenerating assembloids with human brain organoids, glioma, breast cancer, melanoma and/or blood vessels\nDeveloping human amniotic membrane organoids for scar-free wound healing\nTargeted DamID and NanoDam for cell-specific genome wide chromatin binding in vivo",
+  "research_keywords": [],
+  "experimental_capabilities": [],
+  "model_systems": [],
+  "focus_groups": [
+    "Organoids"
+  ],
+  "publications": [],
+  "id": "intake_andrea_h_brand",
+  "department_site": "Cell Biology",
+  "keywords": [],
+  "summary": "Neural stem cells in the adult brain exist primarily in a quiescent state but can be reactivated in response to changing physiological conditions. The ability to reactivate neural stem cells in situ raises the prospect of potential future therapies for brain repair after damage or neurodegenerative disease. Understanding the molecular basis of stem cell reactivation is an essential first step. We generate human cerebral and hypothalamic brain organoids to study stem cell quiescence and tumorigenesis. We study cell interactions in assembloids, combining human brain organoids with glioma, melanoma, breast cancer and/or blood vessel organoids. We combine cutting-edge genetic and molecular approaches with advanced imaging techniques to study the reactivation of neural stem cells in vivo and to identify the cells of origin in brain tumors. We developed \u2018Targeted DamID\u2019 (TaDa) and NanoDam for cell type specific genome-wide profiling of DNA- or chromatin-binding in vivo and RNA-DamID to detects lncRNA\u2013genome interactions with high sensitivity and accuracy."
+}

@@ -1,0 +1,23 @@
+{
+  "source": "intake_form",
+  "faculty_id": "intake_hyung_don_ryoo",
+  "name": "Hyung Don Ryoo",
+  "name_canonical": "Hyung Don Ryoo",
+  "title": "Professor",
+  "affiliations": [
+    "Cell Biology"
+  ],
+  "affiliations_raw": "Cell Biology",
+  "affiliations_unmapped": [],
+  "lab_synopsis": "My laboratory primarily uses Drosophila to investigate how cells mount stress-response signaling and how those mechanisms affect degenerative disease models. Of particular interest to us is the Unfolded Protein Response (UPR) and the Integrated Stress Response (ISR), which respond to misfolded protein overload in the endoplasmic reticulum (ER), amino acid deficiency, and mitochondrial stress. My group was the first to employ Drosophila to study the UPR. We were also the first to establish the role of UPR in retinal degeneration using a Drosophila model of Retinitis Pigmentosa. In recent years, my research group has focused more in-depth on ISR, a pathway that partially overlaps with UPR. Among others, we identified previously unrecognized regulators of PERK signaling and determined that these genes affect the course of retinal degeneration in the Drosophila model of Retinitis Pigmentosa and Parkinson\u2019s Disease. In addition to our interest in UPR and ISR, we have an active collaboration with Dr. Einar Sigrudsson in using Drosophila to develop single domain antibodies that neutralize pathologenic tau and alpha-synuclein.",
+  "common_experiments_raw": "Drosophila genetics\ngene expression profiling\nmicroscopy\nprotein-protein interaction analysis using mass spectrometry",
+  "research_keywords": [],
+  "experimental_capabilities": [],
+  "model_systems": [],
+  "focus_groups": [],
+  "publications": [],
+  "id": "intake_hyung_don_ryoo",
+  "department_site": "Cell Biology",
+  "keywords": [],
+  "summary": "My laboratory primarily uses Drosophila to investigate how cells mount stress-response signaling and how those mechanisms affect degenerative disease models. Of particular interest to us is the Unfolded Protein Response (UPR) and the Integrated Stress Response (ISR), which respond to misfolded protein overload in the endoplasmic reticulum (ER), amino acid deficiency, and mitochondrial stress. My group was the first to employ Drosophila to study the UPR. We were also the first to establish the role of UPR in retinal degeneration using a Drosophila model of Retinitis Pigmentosa. In recent years, my research group has focused more in-depth on ISR, a pathway that partially overlaps with UPR. Among others, we identified previously unrecognized regulators of PERK signaling and determined that these genes affect the course of retinal degeneration in the Drosophila model of Retinitis Pigmentosa and Parkinson\u2019s Disease. In addition to our interest in UPR and ISR, we have an active collaboration with Dr. Einar Sigrudsson in using Drosophila to develop single domain antibodies that neutralize pathologenic tau and alpha-synuclein."
+}

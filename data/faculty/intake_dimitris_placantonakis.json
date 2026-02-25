@@ -1,0 +1,26 @@
+{
+  "source": "intake_form",
+  "faculty_id": "intake_dimitris_placantonakis",
+  "name": "Dimitris Placantonakis",
+  "name_canonical": "Dimitris Placantonakis",
+  "title": "Professor of Neurosurgery and Cell Biology",
+  "affiliations": [
+    "Cell Biology",
+    "Neurosurgery"
+  ],
+  "affiliations_raw": "Neurosurgery and Cell Biology",
+  "affiliations_unmapped": [],
+  "lab_synopsis": "glioblastoma; chromatin organization in human neural development; adhesions GPCR function and therapeutics",
+  "common_experiments_raw": "glioblastoma tumor growth assays in vitro and in vivo\nantibody-drug conjugate testing in vitro and in vivo\nhuman neural development: stem cell assays, chromatin analysis\ntumor organoids\ncerebral organoids",
+  "research_keywords": [],
+  "experimental_capabilities": [],
+  "model_systems": [],
+  "focus_groups": [
+    "Organoids"
+  ],
+  "publications": [],
+  "id": "intake_dimitris_placantonakis",
+  "department_site": "Cell Biology",
+  "keywords": [],
+  "summary": "glioblastoma; chromatin organization in human neural development; adhesions GPCR function and therapeutics"
+}

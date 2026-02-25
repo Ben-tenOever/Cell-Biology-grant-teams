@@ -1,0 +1,26 @@
+{
+  "source": "intake_form",
+  "faculty_id": "intake_catherine_pei_ju_lu",
+  "name": "Catherine Pei-ju Lu",
+  "name_canonical": "Catherine Pei-ju Lu",
+  "title": "Assistant Professor",
+  "affiliations": [
+    "Cell Biology",
+    "Plastic Surgery"
+  ],
+  "affiliations_raw": "Plastic Surgery and Cell Biology",
+  "affiliations_unmapped": [],
+  "lab_synopsis": "My lab aims to build a comprehensive framework for understanding stem cell biology of the skin, from development to disease. Our research will center on three interconnected themes:  Stem Cell Plasticity and Regeneration: We will investigate the molecular and cellular mechanisms by which sweat gland progenitors re-enter developmental programs after injury, with the goal of identifying pathways that can be therapeutically targeted to enhance regeneration. Microenvironment and Niche Signaling: By using spatial transcriptomics and live imaging, we will map the dynamic interactions between stem cells and their niche in both normal and diseased skin. These studies will illuminate how inflammatory or fibrotic environments alter stem cell behavior. Disease Modeling and Translational Applications: We plan to use mouse models and patient-derived organoid systems to dissect the molecular pathogenesis underlying inflammatory skin disorders. This integrative approach will not only yield critical insights into disease mechanisms but also establish a versatile platform for preclinical drug screening, toxicity assessment, and the development of targeted therapeutics. I am committed to fostering a collaborative and intellectually rigorous environment for trainees. My vision is to develop a research program that not only advances fundamental understanding of epithelial biology but also translates these discoveries into meaningful clinical advances.",
+  "common_experiments_raw": "cell culture, explant culture, FACS sorting, single cell RNA sequencing, spatial transcriptomics, immunofluorescent imaging",
+  "research_keywords": [],
+  "experimental_capabilities": [],
+  "model_systems": [],
+  "focus_groups": [
+    "Organoids"
+  ],
+  "publications": [],
+  "id": "intake_catherine_pei_ju_lu",
+  "department_site": "Cell Biology",
+  "keywords": [],
+  "summary": "My lab aims to build a comprehensive framework for understanding stem cell biology of the skin, from development to disease. Our research will center on three interconnected themes:  Stem Cell Plasticity and Regeneration: We will investigate the molecular and cellular mechanisms by which sweat gland progenitors re-enter developmental programs after injury, with the goal of identifying pathways that can be therapeutically targeted to enhance regeneration. Microenvironment and Niche Signaling: By using spatial transcriptomics and live imaging, we will map the dynamic interactions between stem cells and their niche in both normal and diseased skin. These studies will illuminate how inflammatory or fibrotic environments alter stem cell behavior. Disease Modeling and Translational Applications: We plan to use mouse models and patient-derived organoid systems to dissect the molecular pathogenesis underlying inflammatory skin disorders. This integrative approach will not only yield critical insights into disease mechanisms but also establish a versatile platform for preclinical drug screening, toxicity assessment, and the development of targeted therapeutics. I am committed to fostering a collaborative and intellectually rigorous environment for trainees. My vision is to develop a research program that not only advances fundamental understanding of epithelial biology but also translates these discoveries into meaningful clinical advances."
+}
