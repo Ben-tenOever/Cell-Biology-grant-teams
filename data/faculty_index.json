@@ -1,51 +1,58 @@
 [
   {
+    "id": "intake_andrea_h_brand",
+    "name": "Andrea H. Brand",
+    "title": "Chair Department of Cell Biology and Director Regenerative Medicine Institute",
+    "summary": "Neural stem cells in the adult brain exist primarily in a quiescent state but can be reactivated in response to changing physiological conditions.",
+    "keywords": [],
+    "search_text": "Andrea H. Brand Chair Department of Cell Biology and Director Regenerative Medicine Institute Neural stem cells in the adult brain exist primarily in a quiescent state but can be reactivated in response to changing physiological conditions."
+  },
+  {
     "id": "intake_catherine_pei_ju_lu",
     "name": "Catherine Pei-ju Lu",
     "title": "Assistant Professor",
-    "summary": "My lab aims to build a comprehensive framework for understanding stem cell biology of the skin, from development to disease. Our research will center on three interconnected themes:  Stem Cell Plasticity and Regeneration: We will investigate the molecular and cellular mechanisms by which sweat gland progenitors re-enter developmental programs after injury, with the goal of identifying pathways that can be therapeutically targeted to enhance regeneration. Microenvironment and Niche Signaling: By using spatial transcriptomics and live imaging, we will map the dynamic interactions between stem cells and their niche in both normal and diseased skin. These studies will illuminate how inflammatory or fibrotic environments alter stem cell behavior. Disease Modeling and Translational Applications: We plan to use mouse models and patient-derived organoid systems to dissect the molecular pathogenesis underlying inflammatory skin disorders. This integrative approach will not only yield critical insights into disease mechanisms but also establish a versatile platform for preclinical drug screening, toxicity assessment, and the development of targeted therapeutics. I am committed to fostering a collaborative and intellectually rigorous environment for trainees. My vision is to develop a research program that not only advances fundamental understanding of epithelial biology but also translates these discoveries into meaningful clinical advances.",
-    "keywords": []
-  },
-  {
-    "id": "intake_esteban_o_mazzoni",
-    "name": "esteban o mazzoni",
-    "title": "professor",
-    "summary": "We are passionate about understanding how cells acquire the functions required by a multicellular organism like the complex human body. We aim to understand how these cells change and develop to a degree that we can control for future clinical applications.  Our research is a blend of different scientific approaches, all working together to deepen our understanding of cell differentiation. We're proud of our ability to combine cutting-edge genomic and tissue culture technologies to answer fundamental questions about how cells change and develop.  We're curious about how DNA sequences can store temporary signals as permanent memories. We're interested in how different transcription factors interact to drive cell differentiation. We're also keen to understand why some neurons are more susceptible to neurodegeneration than others.  We use innovative tools and techniques to study cell differentiation and neuronal physiology at a pace comparable to small invertebrate animals and on a scale associated with yeast. This allows us to study mammalian cell differentiation quickly and on a large scale, while also considering human genetic diversity.  In short, our lab is a place where curiosity meets innovation, all with the goal of better understanding the fascinating world of mammalian cells.",
-    "keywords": []
-  },
-  {
-    "id": "intake_hyung_don_ryoo",
-    "name": "Hyung Don Ryoo",
-    "title": "Professor",
-    "summary": "My laboratory primarily uses Drosophila to investigate how cells mount stress-response signaling and how those mechanisms affect degenerative disease models. Of particular interest to us is the Unfolded Protein Response (UPR) and the Integrated Stress Response (ISR), which respond to misfolded protein overload in the endoplasmic reticulum (ER), amino acid deficiency, and mitochondrial stress. My group was the first to employ Drosophila to study the UPR. We were also the first to establish the role of UPR in retinal degeneration using a Drosophila model of Retinitis Pigmentosa. In recent years, my research group has focused more in-depth on ISR, a pathway that partially overlaps with UPR. Among others, we identified previously unrecognized regulators of PERK signaling and determined that these genes affect the course of retinal degeneration in the Drosophila model of Retinitis Pigmentosa and Parkinson\u2019s Disease. In addition to our interest in UPR and ISR, we have an active collaboration with Dr. Einar Sigrudsson in using Drosophila to develop single domain antibodies that neutralize pathologenic tau and alpha-synuclein.",
-    "keywords": []
-  },
-  {
-    "id": "intake_elaine_lyn_wilson",
-    "name": "Elaine (Lyn) Wilson",
-    "title": "Professor",
-    "summary": "My major contributions have been to the field of tumor cell biology, and more recently to the relationship between normal prostate stem and prostate tumor cells. It is likely that the aberrant proliferation of prostate stem cells and/or their progenitors contributes directly to prostate pathology. My laboratory has focused on the isolation and characterization of the stem and progenitor cell populations of the adult and the fetal prostate and their contribution to malignant transformation. We were the first to identify the proximal region of murine prostatic ducts as being enriched in stem cells that express high levels of Sca-1, are quiescent and have high proliferative potential in vitro and in vivo (Tsujimura et al 2002). In addition, single proximal cells give rise to branched ductal structures that contain both basal and luminal cells. Cells from this region have significant regenerative capacity when assayed in an in vivo prostate reconstitution assay in which combinations of prostate cells and embryonic urogenital sinus mesenchyme (inductive mesenchyme for prostatic tissue) are inserted under the renal capsule of recipient animals. Proximal cells also withstand prolonged androgen deprivation, another characteristic of stem cells. Sca-1high prostate regenerating cells also express other antigens characteristic of stem cells such as alpha 6 integrin, aldehyde dehydrogenase and Bcl-2. High levels of TGF-beta in the proximal region maintain the quiescence of the proximal stem cell niche (Salm et al 2005). The global gene expression profiles of adult and fetal prostate stem cells indicate that adult stem cells express a unique repertoire of genes, many of which are involved in quiescence (Blum et al 2010). We find that aberrant activation of components of prostate stem cell pathways contribute to the development of prostate tumors. My current research is directed at identifying molecules that can serve as targets for treating patients with prostate cancer. We have recently identified several molecules, including KLF4, that regulate both stem cell function and malignant transformation, including targetable molecules for potentially treating tumors. In addition, we have identified a biomarker signature that predicts those patients with indolent disease who have a prolonged relapse-free survival. Importantly, this signature can also stratify patients with low Gleason scores (Xiong et al 2018).",
-    "keywords": []
+    "summary": "My lab aims to build a comprehensive framework for understanding stem cell biology of the skin, from development to disease.",
+    "keywords": [],
+    "search_text": "Catherine Pei-ju Lu Assistant Professor My lab aims to build a comprehensive framework for understanding stem cell biology of the skin, from development to disease."
   },
   {
     "id": "intake_dimitris_placantonakis",
     "name": "Dimitris Placantonakis",
     "title": "Professor of Neurosurgery and Cell Biology",
     "summary": "glioblastoma; chromatin organization in human neural development; adhesions GPCR function and therapeutics",
-    "keywords": []
+    "keywords": [],
+    "search_text": "Dimitris Placantonakis Professor of Neurosurgery and Cell Biology glioblastoma; chromatin organization in human neural development; adhesions GPCR function and therapeutics"
   },
   {
-    "id": "intake_andrea_h_brand",
-    "name": "Andrea H. Brand",
-    "title": "Chair Department of Cell Biology and Director Regenerative Medicine Institute",
-    "summary": "Neural stem cells in the adult brain exist primarily in a quiescent state but can be reactivated in response to changing physiological conditions. The ability to reactivate neural stem cells in situ raises the prospect of potential future therapies for brain repair after damage or neurodegenerative disease. Understanding the molecular basis of stem cell reactivation is an essential first step. We generate human cerebral and hypothalamic brain organoids to study stem cell quiescence and tumorigenesis. We study cell interactions in assembloids, combining human brain organoids with glioma, melanoma, breast cancer and/or blood vessel organoids. We combine cutting-edge genetic and molecular approaches with advanced imaging techniques to study the reactivation of neural stem cells in vivo and to identify the cells of origin in brain tumors. We developed \u2018Targeted DamID\u2019 (TaDa) and NanoDam for cell type specific genome-wide profiling of DNA- or chromatin-binding in vivo and RNA-DamID to detects lncRNA\u2013genome interactions with high sensitivity and accuracy.",
-    "keywords": []
+    "id": "intake_elaine_lyn_wilson",
+    "name": "Elaine (Lyn) Wilson",
+    "title": "Professor",
+    "summary": "My major contributions have been to the field of tumor cell biology, and more recently to the relationship between normal prostate stem and prostate tumor cells.",
+    "keywords": [],
+    "search_text": "Elaine (Lyn) Wilson Professor My major contributions have been to the field of tumor cell biology, and more recently to the relationship between normal prostate stem and prostate tumor cells."
+  },
+  {
+    "id": "intake_esteban_o_mazzoni",
+    "name": "esteban o mazzoni",
+    "title": "professor",
+    "summary": "We are passionate about understanding how cells acquire the functions required by a multicellular organism like the complex human body.",
+    "keywords": [],
+    "search_text": "esteban o mazzoni professor We are passionate about understanding how cells acquire the functions required by a multicellular organism like the complex human body."
+  },
+  {
+    "id": "intake_hyung_don_ryoo",
+    "name": "Hyung Don Ryoo",
+    "title": "Professor",
+    "summary": "My laboratory primarily uses Drosophila to investigate how cells mount stress-response signaling and how those mechanisms affect degenerative disease models.",
+    "keywords": [],
+    "search_text": "Hyung Don Ryoo Professor My laboratory primarily uses Drosophila to investigate how cells mount stress-response signaling and how those mechanisms affect degenerative disease models."
   },
   {
     "id": "intake_susan_smith",
     "name": "Susan Smith",
     "title": "Professor",
-    "summary": "My laboratory studies mechanisms of chromosome cohesion and segregation in human normal cells, stem cells, aging cells, and cancer cells. We focus on how sister chromatid cohesion is established at repetitive sequences including telomeres, ribosomal DNA arrays, and centromeres in S phase during DNA replication and how these sequences are resolved and accurately distributed to daughter cells in mitosis. We study the role of the polyADP-ribosyltransferases tankyrase 1 and 2 in cohesion and ubiquitin-mediated protein degradation. Our recent studies on cohesion showed that persistent telomere cohesion is due to RNA-DNA hybrid (R-loop) structures and further that their regulation by tankyrase impacts replicative senescence and cancer cell growth. For protein degradation, we identified multiple E3 ligases that ubiquitylate and control tankyrase function. We discovered a novel post-translational hybrid mark (ubiquitin on ADP-ribose on serine) and cognate hybrid readers that bind the hybrid mark to control ADP-ribosylation and stability of tankyrase and its targets.",
-    "keywords": []
+    "summary": "My laboratory studies mechanisms of chromosome cohesion and segregation in human normal cells, stem cells, aging cells, and cancer cells.",
+    "keywords": [],
+    "search_text": "Susan Smith Professor My laboratory studies mechanisms of chromosome cohesion and segregation in human normal cells, stem cells, aging cells, and cancer cells."
   }
 ]
