@@ -35,7 +35,21 @@
     "focus_groups": [
       "Organoids"
     ],
-    "common_experiments_raw": "cell culture, explant culture, FACS sorting, single cell RNA sequencing, spatial transcriptomics, immunofluorescent imaging"
+    "common_experiments_raw": "cell culture, explant culture, FACS sorting, single cell RNA sequencing, spatial transcriptomics, immunofluorescent imaging",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Pei-ju Lu, Catherine/2012 Lu Cell_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Pei-ju Lu, Catherine/2016 Lu Science_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_dimitris_placantonakis",
@@ -99,7 +113,15 @@
     "affiliations": [
       "Cell Biology"
     ],
-    "common_experiments_raw": "Drosophila genetics\ngene expression profiling\nmicroscopy\nprotein-protein interaction analysis using mass spectrometry"
+    "common_experiments_raw": "Drosophila genetics\ngene expression profiling\nmicroscopy\nprotein-protein interaction analysis using mass spectrometry",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Ryoo, Hyung Don/ryoo-et-al-2006-unfolded-protein-response-in-_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_susan_smith",

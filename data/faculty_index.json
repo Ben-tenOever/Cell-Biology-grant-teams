@@ -16,7 +16,69 @@
     "focus_groups": [
       "Organoids"
     ],
-    "common_experiments_raw": "Developing region specific human brain organoids\nGenerating assembloids with human brain organoids, glioma, breast cancer, melanoma and/or blood vessels\nDeveloping human amniotic membrane organoids for scar-free wound healing\nTargeted DamID and NanoDam for cell-specific genome wide chromatin binding in vivo"
+    "common_experiments_raw": "Developing region specific human brain organoids\nGenerating assembloids with human brain organoids, glioma, breast cancer, melanoma and/or blood vessels\nDeveloping human amniotic membrane organoids for scar-free wound healing\nTargeted DamID and NanoDam for cell-specific genome wide chromatin binding in vivo",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Andrea Brand/PIIS1534580722002489_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Andrea Brand/PIIS193459092200460X_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Andrea Brand/journal.pbio.3001255_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Andrea Brand/journal.pbio.3002944 (3)_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Andrea Brand/s41556-019-0402-6_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ORGANOID Faculty/Andrea Brand/PIIS1534580722002489_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ORGANOID Faculty/Andrea Brand/PIIS193459092200460X_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ORGANOID Faculty/Andrea Brand/journal.pbio.3001255_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ORGANOID Faculty/Andrea Brand/journal.pbio.3002944 (3)_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ORGANOID Faculty/Andrea Brand/s41556-019-0402-6_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_catherine_pei_ju_lu",
@@ -45,6 +107,24 @@
       },
       {
         "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Pei-ju Lu, Catherine/2016 Lu Science_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Pei-ju Lu, Catherine/2024 Cassidy Tranplant direct_VCA_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Pei-ju Lu, Catherine/2024 HS TLS Immunity wo sup_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Pei-ju Lu, Catherine/2025 Lin JID_HS glandular marker_anonymous.pdf",
         "title": null,
         "year": null,
         "doi": null
@@ -98,7 +178,27 @@
     "affiliations": [
       "Cell Biology"
     ],
-    "common_experiments_raw": "stem cell differentiation, *transcription factor induced differentiation, RNA-seq, chip-seq, cut&run, cut&tag, immunocytochemistry, FACS"
+    "common_experiments_raw": "stem cell differentiation, *transcription factor induced differentiation, RNA-seq, chip-seq, cut&run, cut&tag, immunocytochemistry, FACS",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Mazzoni, Esteban/Differential abilities to engage inaccessible_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Mazzoni, Esteban/Essential transcription factors for induced n_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Mazzoni, Esteban/Synthetic regulatory reconstitution reveals p_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_hyung_don_ryoo",
@@ -120,6 +220,30 @@
         "title": null,
         "year": null,
         "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Ryoo, Hyung Don/elife-74047_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Ryoo, Hyung Don/jcb_201511073_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Ryoo, Hyung Don/s41419-024-06927-9 (1)_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Ryoo, Hyung Don/s41467-020-18453-1_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
       }
     ]
   },
@@ -137,6 +261,38 @@
       "Cell Biology",
       "Pathology"
     ],
-    "common_experiments_raw": "Experimental techniques: Generation of mutant and knockout cell lines using CRISPR/Cas9; Protein extraction, immunoprecipitation, and immunoblot analysis; RNAi using siRNAs and lentiviral shRNAs; Ubiquitylation and ADP-ribosylation assays in cells and in vitro; Chromosome-specific FISH; Metaphase spread analysis; Indirect immunofluorescence analysis; RNA isolation and Northern blot analysis; Telomere restriction fragment analysis; Chromatin Immunoprecipitation (ChIP); DNA–RNA immunoprecipitation (DRIP); and RNA immunoprecipitation (RIP)."
+    "common_experiments_raw": "Experimental techniques: Generation of mutant and knockout cell lines using CRISPR/Cas9; Protein extraction, immunoprecipitation, and immunoblot analysis; RNAi using siRNAs and lentiviral shRNAs; Ubiquitylation and ADP-ribosylation assays in cells and in vitro; Chromosome-specific FISH; Metaphase spread analysis; Indirect immunofluorescence analysis; RNA isolation and Northern blot analysis; Telomere restriction fragment analysis; Chromatin Immunoprecipitation (ChIP); DNA–RNA immunoprecipitation (DRIP); and RNA immunoprecipitation (RIP).",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Smith, Susan/AzarmNatComm2020_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Smith, Susan/DaniloskiG&D2019_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Smith, Susan/PerrardNatComm2023_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Smith, Susan/PerrardSciAdv2025_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Cell Biology/Smith, Susan/SzeCellReports2023_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   }
 ]
